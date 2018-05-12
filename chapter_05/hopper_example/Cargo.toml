@@ -1,0 +1,8 @@
+[package]
+name = "hopper_example"
+version = "0.1.0"
+authors = ["Brian L. Troutwine <brian@troutwine.us>"]
+
+[dependencies]
+hopper = "0.4"
+tempdir = "0.3"

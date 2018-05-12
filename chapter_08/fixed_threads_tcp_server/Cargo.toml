@@ -1,0 +1,17 @@
+[package]
+name = "fixed_threads_server"
+version = "0.1.0"
+authors = ["Brian L. Troutwine <brian@troutwine.us>"]
+
+[dependencies]
+clap = "2.31"
+slog = "2.2"
+slog-term = "2.4"
+slog-async = "2.3"
+threadpool = "1.7"
+
+[[bin]]
+name = "server"
+
+[[bin]]
+name = "client"

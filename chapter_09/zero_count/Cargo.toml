@@ -1,0 +1,10 @@
+[package]
+name = "zero_count"
+version = "0.1.0"
+authors = ["Brian L. Troutwine <brian@troutwine.us>"]
+
+[dependencies]
+
+[lib]
+name = "zero_count"
+crate-type = ["dylib"]

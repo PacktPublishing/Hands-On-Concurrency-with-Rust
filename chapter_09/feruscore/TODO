@@ -1,0 +1,2 @@
+* compile exhaust with FIELD_T_WIDTH 16, current default
+* adjust Instruction to fit `insn_st`

@@ -1,0 +1,13 @@
+[package]
+name = "sniffer"
+version = "0.1.0"
+authors = ["Brian L. Troutwine <brian@troutwine.us>"]
+
+[dependencies]
+pnet = "0.21"
+
+[[bin]]
+name = "sniffer"
+
+[[bin]]
+name = "poor_threading"

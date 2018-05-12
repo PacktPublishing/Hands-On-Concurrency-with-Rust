@@ -1,0 +1,6 @@
+error_on_line_overflow = false
+format_strings = false
+max_width = 87
+reorder_imports = true
+reorder_imported_names = true
+wrap_comments = true

@@ -1,0 +1,11 @@
+[package]
+name = "telem"
+version = "0.1.0"
+
+[dependencies]
+quantiles = "0.7"
+seahash = "3.0"
+
+[[bin]]
+name = "telem"
+doc = false

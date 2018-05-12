@@ -1,0 +1,34 @@
+[package]
+name = "synchro"
+version = "0.1.0"
+authors = ["Brian L. Troutwine <brian@troutwine.us>"]
+
+[[bin]]
+name = "swap_mutex"
+doc = false
+
+[[bin]]
+name = "status_demo"
+doc = false
+
+[[bin]]
+name = "mutex_status_demo"
+doc = false
+
+[[bin]]
+name = "spin_mutex_status_demo"
+doc = false
+
+[[bin]]
+name = "queue_spin"
+doc = false
+
+[[bin]]
+name = "crossbeam_queue_spin"
+doc = false
+
+[dependencies]
+crossbeam = { git = "https://github.com/crossbeam-rs/crossbeam.git", rev = "89bd6857cd701bff54f7a8bf47ccaa38d5022bfb" }
+
+[dev-dependencies]
+quickcheck = "0.6"

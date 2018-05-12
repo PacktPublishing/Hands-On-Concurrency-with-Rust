@@ -1,0 +1,45 @@
+[submodule "chapter_08/rayon"]
+	path = chapter_08/rayon
+	url = https://github.com/rayon-rs/rayon.git
+[submodule "chapter_08/rust-threadpool"]
+	path = chapter_08/rust-threadpool
+	url = https://github.com/rust-threadpool/rust-threadpool.git
+[submodule "chapter_09/beamcoin"]
+	path = chapter_09/beamcoin
+	url = https://github.com/blt/beamcoin.git
+[submodule "chapter_10/stdsimd"]
+	path = chapter_10/stdsimd
+	url = https://github.com/rust-lang-nursery/stdsimd.git
+[submodule "chapter_07/tfs"]
+	path = chapter_07/tfs
+	url = https://github.com/redox-os/tfs.git
+[submodule "chapter_07/crossbeam"]
+	path = chapter_07/crossbeam
+	url = https://github.com/crossbeam-rs/crossbeam.git
+[submodule "chapter_07/crossbeam-epoch"]
+	path = chapter_07/crossbeam-epoch
+	url = https://github.com/crossbeam-rs/crossbeam-epoch.git
+[submodule "chapter_06/hopper"]
+	path = chapter_06/hopper
+	url = https://github.com/postmates/hopper.git
+[submodule "chapter_05/hopper"]
+	path = chapter_05/hopper
+	url = https://github.com/postmates/hopper.git
+[submodule "chapter_05/hopper-fuzz"]
+	path = chapter_05/hopper-fuzz
+	url = https://github.com/blt/hopper-fuzz.git
+[submodule "chapter_07/rust"]
+	path = chapter_07/rust
+	url = https://github.com/rust-lang/rust.git
+[submodule "chapter_02/quickcheck"]
+	path = chapter_02/quickcheck
+	url = https://github.com/BurntSushi/quickcheck.git
+[submodule "chapter_04/rust"]
+	path = chapter_04/rust
+	url = https://github.com/rust-lang/rust.git
+[submodule "chapter_03/rust"]
+	path = chapter_03/rust
+	url = https://github.com/rust-lang/rust.git
+[submodule "chapter_02/rust"]
+	path = chapter_02/rust
+	url = https://github.com/rust-lang/rust.git

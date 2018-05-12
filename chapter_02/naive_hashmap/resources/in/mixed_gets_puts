@@ -1,0 +1,3 @@
+LOOKUP 10
+INSERT abs 10
+LOOKUP abs

@@ -1,0 +1,23 @@
+[package]
+name = "treiber_stacks"
+version = "0.1.0"
+authors = ["Brian L. Troutwine <brian@troutwine.us>"]
+
+[dependencies]
+num_cpus = "1.8"
+# conc = "0.5"
+crossbeam = { git = "https://github.com/crossbeam-rs/crossbeam.git", rev = "89bd6857cd701bff54f7a8bf47ccaa38d5022bfb" }
+lazy_static = "1.0"
+quantiles = "0.7"
+
+[[bin]]
+name = "refcount"
+doc = false
+
+[[bin]]
+name = "epoch_stack"
+doc = false
+
+# [[bin]]
+# name = "conc_stack"
+# doc = false
