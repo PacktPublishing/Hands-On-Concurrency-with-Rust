@@ -1,12 +1,13 @@
-# Rust Concurrency
+# Hands-On Concurrency with Rust
 
-This repository contains the source code for [Rust
-Concurrency](https://www.packtpub.com/application-development/rust-concurrency). Each
-sub-project is intended to be built with the stable channel of Rust.
+This repository contains the source code for 
+[Hands-On Concurrency with Rust](https://www.packtpub.com/application-development/hands-concurrency-rust). 
+Each sub-project is intended to be built with the stable channel of Rust except
+where noted in the text of the book. 
 
 ## Initialization
 
-Rust Concurrency discusses several community projects. This repository tracks
+Hands-On Concurrency with Rust discusses several community projects. This repository tracks
 those crates as submodules. To properly initialize this repository please issue
 the following commands:
 
@@ -19,5 +20,5 @@ If you have not yet cloned the repository and have at least git 2.13 you may
 issue this command instead:
 
 ```
-> git clone --recurse-submodules https://github.com/PacktPublishing/Rust-Concurrency.git
+> git clone --recurse-submodules https://github.com/PacktPublishing/Hands-On-Concurrency-with-Rust.git
 ```
