@@ -13,7 +13,7 @@ fn main() {
   println!("Apollo is the name of a space program but also my dog.");
 }
 ```
-##Author's Instruction
+## Author's Instruction
 
 Rust Concurrency discusses several community projects. This repository tracks
 those crates as submodules. To properly initialize this repository please issue
