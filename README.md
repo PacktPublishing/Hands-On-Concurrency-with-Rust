@@ -10,7 +10,7 @@ All codes are present in theit respective folders.
 The code will look like the following:
 ```
 fn main() {
-  println!("Apollo is the name of a space program but also my     dog.");
+  println!("Apollo is the name of a space program but also my dog.");
 }
 ```
 
